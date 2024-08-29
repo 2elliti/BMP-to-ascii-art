@@ -1,2 +1,2 @@
-##MONOCHROME 
-it converts greyscale image to ascii art
+# GREY-SCALE CONVERTER 
+it converts greyscale bmp format image to ascii art
