@@ -1,5 +1,8 @@
 # GREY-SCALE CONVERTER 
-it converts greyscale bmp format image to ascii art
+It converts greyscale BMP format images to ASCII art. 
+My primary objective is to avoid using any external libraries for image processing.
+
+More updates will be added soon.....
 
 
 ![images](https://github.com/user-attachments/assets/7d6ffdc3-2027-4706-9df1-4e95aa42391c)
